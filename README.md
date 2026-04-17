@@ -6,10 +6,20 @@ An end-to-end intelligent system that automates traffic violation processing —
 
 ## 📸 Screenshots
 
-> _Add screenshots of your UI here after uploading to GitHub_
+### 🚘 Main Dashboard
+![Dashboard](Images/img_1.png)
 
----
+### 🔍 Plate Detection
+![Detection](Images/img_2.png)
 
+### 📋 Challan Generated
+![Challan](Images/img_3.png)
+
+### 💬 WhatsApp Notification
+![WhatsApp](Images/img_4.png)
+
+### 💳 Payment Page
+![Payment](Images/img_5.png)
 ## ✨ Features
 
 - 🔍 **Automatic Number Plate Recognition** using EasyOCR + OpenCV
