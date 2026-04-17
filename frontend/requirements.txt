@@ -1,0 +1,35 @@
+# =========================
+# Backend Framework
+# =========================
+fastapi
+uvicorn[standard]
+python-multipart
+
+# =========================
+# Computer Vision & OCR
+# =========================
+opencv-python
+easyocr
+scikit-image
+
+# =========================
+# Machine Learning (OCR backend dependency)
+# =========================
+torch
+torchvision
+
+# =========================
+# Data Processing
+# =========================
+pandas
+numpy
+
+# =========================
+# Image Handling
+# =========================
+Pillow
+
+# =========================
+# Optional / Legacy (if still used)
+# =========================
+pywhatkit
